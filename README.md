@@ -8,6 +8,8 @@ Cadet Wars was meant to be built around our Master Coders and Academia de Codigo
 Feel free to try our game.
 Might update in time... or not ! 
 
+NOTE: SimpleGraphics has huge mouse problems and we still used it. It's bugged. Will it work ? Sometimes.
+
 Cadet Wars co-autors :
 
 @jmatos17
