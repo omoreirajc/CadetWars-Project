@@ -1,21 +1,20 @@
-# CadetWars-Project
+# CadetWars Project
 
-We have been challenged to create a game using Java and SimpleGrafics library ( i don't recommend it tho).
-During 9 days and 10 nights we struggled , we strived , and we delivered!
+A 10 nights and 9 days group project.
 
-Cadet Wars was meant to be built around our Master Coders and Academia de Codigo's theme set ( Star Wars ).
+A way to release all the code cdets rage for all that days when the MC's got power entitled
 
-Feel free to try our game.
-Might update in time... or not ! 
+The objectivo is to "shoot" all MC's heads. Bombs are no Good :)
 
-NOTE: SimpleGraphics has huge mouse problems and we still used it. It's bugged. Will it work ? Sometimes.
-
-Cadet Wars co-autors :
-
-@jmatos17
-@pjgcarmona
-@jnobreza
-@SPAfox
+A Funny way to show our "deeper love" :)
 
 
-![FfS_5fYWABMrphp](https://user-images.githubusercontent.com/103292201/206865701-5c4161fa-4310-46bb-9e23-719a46b6ea50.jpeg)
+##CoAuthors
+
+-[@jmatos17](https://github.com/jmatos17)
+
+-[@jnobreza](https://github.com/jnobreza)
+
+-[@omoreirajc](https://github.com/omoreirajc)
+
+-[@Sara Raposo](https://github.com/SPAFox)
